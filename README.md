@@ -1,1 +1,1 @@
-This repository shows all the projects that I have worked on for creating a portfolio and for coursework.
+This repository has works from various courseworks and personal projects. 
